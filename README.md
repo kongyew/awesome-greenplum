@@ -1,5 +1,5 @@
 # awesome-greenplum
-A curated list of awesome Greenplum resources, tools
+A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [Greenplum](https://en.wikipedia.org/wiki/Greenplum) is an advanced, fully featured, open source data platform.  It provides powerful and rapid analytics on petabyte scale data volumes.  Uniquely geared toward big data analytics, Greenplum Database is powered by the world’s most advanced cost-based query optimizer delivering high analytical query performance on large data volumes. [Greenplum.org](http://greenplum.org/))
 
