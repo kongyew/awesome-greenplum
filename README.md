@@ -52,8 +52,9 @@ For Database Management
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
-### Extensions
-
+### Extensions]
+* [pljava](https://github.com/dbcli/pgcli) - https://github.com/tada/pljava/wiki
+https://github.com/tada/pljava/wiki
 ### Optimization
 
 
@@ -104,16 +105,24 @@ For Database Management
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using gpcrondump](http://greenplum.org/gpdb-sandbox-tutorials/backup-recovery-operations/) - Tutorial about to backup and restore data for Greenplum using gpcrondump.
 * [Data loading using gpfdist](http://greenplum.org/gpdb-sandbox-tutorials/data-loading/) - Tutorial about loading data into Greenplum using GpfdistService.
-
+* [Using Greenplum and Apache Spark via JDBC](https://github.com/kongyew/greenplum-spark-jdbc)
+* [Using Greenplum-Spark connector](https://github.com/kongyew/greenplum-spark-connector)
+* [Using Greenplum and pgAdmin4](https://github.com/kongc-organization/greenplum-pgadmin4)
+* [Using Streamsets to load data from Kafka into Greenplum](https://github.com/kongc-organization/greenplum-streamsets)
+* [Using Greenplum to access Minio - distributed object storage via S3 Protocol](https://github.com/kongc-organization/greenplum-minio)
+*
 ### Blogs
 * [Greenplum.org Blog](http://greenplum.org/blog/) - Blog aggregation service for Greenplum.org.
 * [Pivotal Guru blog](https://www.pivotalguru.com/)
 * [Pivotal Greenplum blog](https://pivotal.io/pivotal-greenplum)
 
-### Articles
 
+### Articles
+* [Greenplum and Apache Spark via JDBC](http://engineering.pivotal.io/post/getting-started-with-greenplum-spark/)
+*
 
 ### Newsletters
+
 
 
 ### Docker images
