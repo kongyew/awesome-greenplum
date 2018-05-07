@@ -26,6 +26,7 @@ A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.raw
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
 - [Docker images](#docker-images)
 - [Videos](#videos)
+- [howto](#howto)
 
 ### High-Availability
 * [PgBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL
@@ -135,3 +136,7 @@ https://github.com/tada/pljava/wiki
 ### Videos
 * [Greenplum Youtube channel](https://www.youtube.com/channel/UCIC2TGO-4xNSAJFCJXlJNwA) - Greenplum related videos
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos
+
+
+### Howto
+* [Security - How to setup Greenplum with Kerberos](https://github.com/kongyew/greenplum-kerberos)
