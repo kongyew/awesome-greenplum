@@ -1,8 +1,8 @@
 # awesome-greenplum
 A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Build Status](https://travis-ci.org/kongyew/awesome-greenplum.svg?branch=master)](https://travis-ci.org/kongyew/awesome-greenplum)
+[![Build Status](https://api.travis-ci.org/kongyew/awesome-greenplum.svg?branch=master)](https://api.travis-ci.org/kongyew/awesome-greenplum.svg?branch=master)
 
-[Greenplum](https://en.wikipedia.org/wiki/Greenplum) is an advanced, fully featured, open source data platform.  It provides powerful and rapid analytics on petabyte scale data volumes.  Uniquely geared toward big data analytics, Greenplum Database is powered by the world’s most advanced cost-based query optimizer delivering high analytical query performance on large data volumes. [Greenplum.org](http://greenplum.org/))
+[Greenplum](https://en.wikipedia.org/wiki/Greenplum) is an advanced, fully featured, open source data platform.  It provides powerful and rapid analytics on petabyte scale data volumes.  Uniquely geared toward big data analytics, Greenplum Database is powered by the world’s most advanced cost-based query optimizer delivering high analytical query performance on large data volumes. [Greenplum.org](https://greenplum.org/))
 
  :elephant: Contributions welcome. Add links through [pull requests](https://github.com/kongyew/awesome-greenplum/pulls) or create an [issue](https://github.com/kongyew/awesome-greenplum/issues) to start a discussion.
 
@@ -41,7 +41,7 @@ A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.raw
 * [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
 For Database Management
 * [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
-* [DBeaver](https://dbeaver.jkiss.org) - Universal Database Manager with excellent support for PostgreSQL.
+* [DBeaver](https://dbeaver.io) - Universal Database Manager with excellent support for PostgreSQL.
 
 
 ### Distributions
@@ -80,14 +80,14 @@ https://github.com/tada/pljava/wiki
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
 * [PostgREST](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
 * [pREST](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
-* [PostGraphQL](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
+* [PostGraphQL](https://github.com/graphile/postgraphile) - A GraphQL schema created by reflection over a PostgreSQL schema.
 * [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 * [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 * [pg_migrate](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 * [sqitch](https://github.com/theory/sqitch) - Tool for managing versioned schema deployment
-* [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
+* [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 * [greenplum-downloader](https://github.com/kongyew/greenplum-downloader) - Tool to download Greenplum files from Pivotal Network
 * [greenplum-dockers](https://github.com/kongyew/greenplum-dockers) - Tool to build Greenplum docker files
@@ -101,13 +101,13 @@ https://github.com/tada/pljava/wiki
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
-* Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
+* Python: [psycopg2](https://pypi.org/pypi/psycopg2)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 
 ### Tutorials
-* [Backup and recover a PostgreSQL DB using gpcrondump](http://greenplum.org/gpdb-sandbox-tutorials/backup-recovery-operations/) - Tutorial about to backup and restore data for Greenplum using gpcrondump.
-* [Data loading using gpfdist](http://greenplum.org/gpdb-sandbox-tutorials/data-loading/) - Tutorial about loading data into Greenplum using GpfdistService.
+* [Backup and recover a PostgreSQL DB using gpcrondump](https://greenplum.org/gpdb-sandbox-tutorials/backup-recovery-operations/) - Tutorial about to backup and restore data for Greenplum using gpcrondump.
+* [Data loading using gpfdist](https://greenplum.org/gpdb-sandbox-tutorials/data-loading/) - Tutorial about loading data into Greenplum using GpfdistService.
 * [Using Greenplum and Apache Spark via JDBC](https://github.com/kongyew/greenplum-spark-jdbc)
 * [Using Greenplum-Spark connector](https://github.com/kongyew/greenplum-spark-connector)
 * [Using Greenplum and pgAdmin4](https://github.com/kongc-organization/greenplum-pgadmin4)
@@ -115,7 +115,7 @@ https://github.com/tada/pljava/wiki
 * [Using Greenplum to access Minio - distributed object storage via S3 Protocol](https://github.com/kongc-organization/greenplum-minio)
 *
 ### Blogs
-* [Greenplum.org Blog](http://greenplum.org/blog/) - Blog aggregation service for Greenplum.org.
+* [Greenplum.org Blog](https://greenplum.org/blog/) - Blog aggregation service for Greenplum.org.
 * [Pivotal Guru blog](https://www.pivotalguru.com/)
 * [Pivotal Greenplum blog](https://pivotal.io/pivotal-greenplum)
 
