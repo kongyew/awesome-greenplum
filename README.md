@@ -54,8 +54,8 @@ For Database Management
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ### Extensions]
-* [pljava](https://github.com/dbcli/pgcli) - https://github.com/tada/pljava/wiki
-https://github.com/tada/pljava/wiki
+
+
 ### Optimization
 
 
@@ -78,7 +78,7 @@ https://github.com/tada/pljava/wiki
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client](https://github.com/dvarrazzo/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
-* [PostgREST](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
+* [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
 * [pREST](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 * [PostGraphQL](https://github.com/graphile/postgraphile) - A GraphQL schema created by reflection over a PostgreSQL schema.
 * [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
@@ -139,4 +139,10 @@ https://github.com/tada/pljava/wiki
 
 
 ### Howto
+#### ETL
+
+#### Data Federation
+
+
+#### Security
 * [Security - How to setup Greenplum with Kerberos](https://github.com/kongyew/greenplum-kerberos)
