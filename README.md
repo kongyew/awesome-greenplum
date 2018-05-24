@@ -118,15 +118,16 @@ For Database Management
 * [Pivotal Guru blog](https://www.pivotalguru.com/)
 * [Pivotal Greenplum blog](https://pivotal.io/pivotal-greenplum)
 
-
 ### Articles
 * [Greenplum and Apache Spark via JDBC](http://engineering.pivotal.io/post/getting-started-with-greenplum-spark/)
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](https://github.com/kongyew/greenplum-spark-connector)
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](http://greenplum-spark-connector.readthedocs.io/en/latest/)
 * [Greenplum workload manager](https://greenplum.org/new-era-greenplum-monitoring-workload-management-greenplum-command-center-v4/)
+* [Greenplum PLContainer](https://greenplum.org/plcontainer-customize-and-secure-your-runtime-of-procedure-language/)
 
-### Newsletters
 
+### PostGres Conference
+* [Postgres Conference 2018](https://postgresconf.org/conferences/2018)
 
 
 ### Docker images
@@ -140,8 +141,9 @@ For Database Management
 
 
 ### Howto
+TBD
 #### ETL
-
+TBD
 #### Data Federation
 
 
