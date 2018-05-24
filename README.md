@@ -100,7 +100,7 @@ For Database Management
 * .Net/.Net Core: [Npgsql](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
-* PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq) 
+* PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 
@@ -121,7 +121,9 @@ For Database Management
 
 ### Articles
 * [Greenplum and Apache Spark via JDBC](http://engineering.pivotal.io/post/getting-started-with-greenplum-spark/)
-*
+* [Greenplum and Apache Spark via Greenplum-Spark Connector](https://github.com/kongyew/greenplum-spark-connector)
+* [Greenplum and Apache Spark via Greenplum-Spark Connector](http://greenplum-spark-connector.readthedocs.io/en/latest/)
+* [Greenplum workload manager](https://greenplum.org/new-era-greenplum-monitoring-workload-management-greenplum-command-center-v4/)
 
 ### Newsletters
 
