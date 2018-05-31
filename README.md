@@ -124,7 +124,7 @@ For Database Management
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](http://greenplum-spark-connector.readthedocs.io/en/latest/)
 * [Greenplum workload manager](https://greenplum.org/new-era-greenplum-monitoring-workload-management-greenplum-command-center-v4/)
 * [Greenplum PLContainer](https://greenplum.org/plcontainer-customize-and-secure-your-runtime-of-procedure-language/)
-
+* [Introducing gpbackup & gprestore](https://greenplum.org/introducing-gpbackup-gprestore/)
 
 ### PostGres Conference
 * [Postgres Conference 2018](https://postgresconf.org/conferences/2018)
@@ -141,7 +141,9 @@ For Database Management
 
 
 ### Howto
-TBD
+* [Backup and restore Greenplum database](https://github.com/kongyew/greenplum-backup/usecase1/README.MD)
+
+
 #### ETL
 TBD
 #### Data Federation
