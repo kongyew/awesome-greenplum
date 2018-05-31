@@ -86,7 +86,7 @@ For Database Management
 * [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 * [pg_migrate](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
-* [sqitch](https://github.com/theory/sqitch) - Tool for managing versioned schema deployment
+* [sqitch](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 * [greenplum-downloader](https://github.com/kongyew/greenplum-downloader) - Tool to download Greenplum files from Pivotal Network
@@ -141,7 +141,7 @@ For Database Management
 
 
 ### Howto
-* [Backup and restore Greenplum database](https://github.com/kongyew/greenplum-backup/usecase1/README.MD)
+* [Backup and restore Greenplum database](https://kongyew.github.io/greenplum-backup/2018-04-20-greenplum-gpbackup-gprestore/)
 
 
 #### ETL
