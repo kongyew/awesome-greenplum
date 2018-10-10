@@ -128,6 +128,7 @@ For Database Management
 * [Greenplum and Apache Spark via JDBC](http://engineering.pivotal.io/post/getting-started-with-greenplum-spark/)
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](https://github.com/kongyew/greenplum-spark-connector/tree/master/usecase1)
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](https://greenplum-spark-connector.readthedocs.io/en/latest/)
+
 * [Greenplum workload manager](https://greenplum.org/new-era-greenplum-monitoring-workload-management-greenplum-command-center-v4/)
 * [Greenplum PLContainer](https://greenplum.org/plcontainer-customize-and-secure-your-runtime-of-procedure-language/)
 * [Introducing gpbackup & gprestore](https://greenplum.org/introducing-gpbackup-gprestore/)
@@ -148,7 +149,8 @@ For Database Management
 
 ### Howto
 * [Backup and restore Greenplum database](https://kongyew.github.io/greenplum-backup/2018-04-20-greenplum-gpbackup-gprestore/)
-
+* [How to use Greenplum-Spark connector](http://greenplum-spark.docs.pivotal.io/150/rw_example.html)
+* [How to download Pivotal Greenplum via automated tool](https://github.com/kongyew/greenplum-downloader)
 
 #### ETL
 TBD
