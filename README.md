@@ -104,6 +104,8 @@ For Database Management
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 
+### JDBC Driver:
+* [Data Direct JDBC driver](https://www.progress.com/jdbc/pivotal-greenplum)
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using gpcrondump](https://greenplum.org/gpdb-sandbox-tutorials/backup-recovery-operations/) - Tutorial about to backup and restore data for Greenplum using gpcrondump.
 * [Data loading using gpfdist](https://greenplum.org/gpdb-sandbox-tutorials/data-loading/) - Tutorial about loading data into Greenplum using GpfdistService.
