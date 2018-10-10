@@ -93,7 +93,7 @@ For Database Management
 * [sqitch](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
-* [greenplum-downloader](https://github.com/kongyew/greenplum-downloader) - Tool to download Greenplum files from Pivotal Network
+* [greenplum-downloader](https://github.com/kongyew/greenplum-downloader/blob/master/README.MD) - Tool to download Greenplum files from Pivotal Network
 * [greenplum-dockers](https://github.com/kongyew/greenplum-dockers) - Tool to build Greenplum docker files
 
 ### Language bindings
