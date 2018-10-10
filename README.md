@@ -131,7 +131,7 @@ For Database Management
 * [Greenplum workload manager](https://greenplum.org/new-era-greenplum-monitoring-workload-management-greenplum-command-center-v4/)
 * [Greenplum PLContainer](https://greenplum.org/plcontainer-customize-and-secure-your-runtime-of-procedure-language/)
 * [Introducing gpbackup & gprestore](https://greenplum.org/introducing-gpbackup-gprestore/)
-
+* [Parallel access to external data sources from Greenplum DB using PXF](https://dwhsys.com/2018/01/10/accessing-external-data-sources-from-greenplum-database/)
 ### PostGres Conference
 * [Postgres Conference 2018](https://postgresconf.org/conferences/2018)
 
