@@ -123,7 +123,7 @@ For Database Management
 ### Articles
 * [Greenplum and Apache Spark via JDBC](http://engineering.pivotal.io/post/getting-started-with-greenplum-spark/)
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](https://github.com/kongyew/greenplum-spark-connector/tree/master/usecase1)
-* [Greenplum and Apache Spark via Greenplum-Spark Connector](http://greenplum-spark-connector.readthedocs.io/en/latest/)
+* [Greenplum and Apache Spark via Greenplum-Spark Connector](https://greenplum-spark-connector.readthedocs.io/en/latest/)
 * [Greenplum workload manager](https://greenplum.org/new-era-greenplum-monitoring-workload-management-greenplum-command-center-v4/)
 * [Greenplum PLContainer](https://greenplum.org/plcontainer-customize-and-secure-your-runtime-of-procedure-language/)
 * [Introducing gpbackup & gprestore](https://greenplum.org/introducing-gpbackup-gprestore/)
