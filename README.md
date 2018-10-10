@@ -150,7 +150,7 @@ For Database Management
 ### Howto
 * [Backup and restore Greenplum database](https://kongyew.github.io/greenplum-backup/2018-04-20-greenplum-gpbackup-gprestore/)
 * [How to use Greenplum-Spark connector](http://greenplum-spark.docs.pivotal.io/150/rw_example.html)
-* [How to download Pivotal Greenplum via automated tool](https://github.com/kongyew/greenplum-downloader)
+* [How to download Pivotal Greenplum via automated tool](https://github.com/kongyew/greenplum-downloader) or See this [link](https://kongyew.github.io/greenplum-downloader/2018-04-20-greenplum-download/)
 
 #### ETL
 TBD
