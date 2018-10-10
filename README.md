@@ -9,6 +9,7 @@ A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.raw
 ## Contents
 
 - [High-Availability](#high-availability)
+- [Business Intelligence](#business-intelligence)
 - [Backups](#backups)
 - [GUI](#gui)
 - [Distributions](#distributions)
@@ -30,6 +31,9 @@ A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.raw
 
 ### High-Availability
 * [PgBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL
+
+### Business Intelligence
+* [Tableau](https://onlinehelp.tableau.com/current/pro/desktop/en-us/help.htm#examples_greenplum.html%3FTocPath%3DReference%7CConnector%2520Examples%7C_____50) - Use Tableau
 
 ### Backups
 * [gpcrondump](https://gpdb.docs.pivotal.io/530/utility_guide/admin_utilities/gpcrondump.html) - Use gpcrondump to backup databases, data, and objects such as database roles and server configuration files.
