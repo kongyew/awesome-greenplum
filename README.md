@@ -54,7 +54,7 @@ For Database Management
 
 ### CLI
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
-* [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
+* [psql](https://www.postgresql.org/docs/current/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ### Extensions]
@@ -129,8 +129,7 @@ For Database Management
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](https://github.com/kongyew/greenplum-spark-connector/tree/master/usecase1)
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](https://greenplum-spark-connector.readthedocs.io/en/latest/)
 
-* [Greenplum workload manager](https://greenplum.org/new-era-greenplum-monitoring-workload-management-greenplum-command-center-v4/)
-* [Greenplum PLContainer](https://greenplum.org/plcontainer-customize-and-secure-your-runtime-of-procedure-language/)
+
 * [Introducing gpbackup & gprestore](https://greenplum.org/introducing-gpbackup-gprestore/)
 * [Parallel access to external data sources from Greenplum DB using PXF](https://dwhsys.com/2018/01/10/accessing-external-data-sources-from-greenplum-database/)
 ### PostGres Conference
