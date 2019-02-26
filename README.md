@@ -125,6 +125,12 @@ For Database Management
 * [Pivotal Greenplum blog](https://pivotal.io/pivotal-greenplum)
 
 ### Articles
+
+* [Using Greenplum PXF to access Minio distributed object storage server](http://engineering.pivotal.io/post/gpdb_accessing_minio/)
+* [Using Greenplum PXF to access Minio distributed object storage server](https://greenplum.org/using-greenplum-to-access-minio/)
+
+
+
 * [Greenplum and Apache Spark via JDBC](http://engineering.pivotal.io/post/getting-started-with-greenplum-spark/)
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](https://github.com/kongyew/greenplum-spark-connector/tree/master/usecase1)
 * [Greenplum and Apache Spark via Greenplum-Spark Connector](https://greenplum-spark-connector.readthedocs.io/en/latest/)
