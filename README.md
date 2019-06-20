@@ -157,7 +157,7 @@ For Database Management
 
 
 ### Tools
-* [Greenplum Database Labs (Quick & Easy)](https://github.com/pivotal-gss/go-gpdb) - Two sets of tools, one that helps for a quick spin-off of an local vagrant test cluster VM's and second tool that helps to install / manage various version installation of GPDB / GPCC with ease. Handy for quick Demo's / test cases / checking out features etc.
+* [Greenplum Database Labs (Quick & Easy)](https://github.com/pivotal-gss/go-gpdb) - Two sets of tools, one that helps for a quick spin-off of an local vagrant test cluster VM's and second tool that helps to install / manage various version installation of GPDB / GPCC with ease. Handy for quick demo's / test cases / checking out features etc.
 
 
 #### ETL
