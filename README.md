@@ -147,7 +147,7 @@ For Database Management
 
 ### Videos
 * [Greenplum Youtube channel](https://www.youtube.com/channel/UCIC2TGO-4xNSAJFCJXlJNwA) - Greenplum related videos
-* [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos
+* [PGConf US Youtube channel](https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ) - Conference videos
 
 
 ### Howto
