@@ -28,6 +28,7 @@ A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.raw
 - [Docker images](#docker-images)
 - [Videos](#videos)
 - [howto](#howto)
+- [Tools](#tools)
 
 ### High-Availability
 * [PgBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL
@@ -146,13 +147,18 @@ For Database Management
 
 ### Videos
 * [Greenplum Youtube channel](https://www.youtube.com/channel/UCIC2TGO-4xNSAJFCJXlJNwA) - Greenplum related videos
-* [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos
+* [PGConf US Youtube channel](https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ) - Conference videos
 
 
 ### Howto
 * [Backup and restore Greenplum database](https://kongyew.github.io/greenplum-backup/2018-04-20-greenplum-gpbackup-gprestore/)
 * [How to use Greenplum-Spark connector](http://greenplum-spark.docs.pivotal.io/150/rw_example.html)
 * [How to download Pivotal Greenplum via automated tool](https://github.com/kongyew/greenplum-downloader) or See this [link](https://kongyew.github.io/greenplum-downloader/2018-04-20-greenplum-download/)
+
+
+### Tools
+* [Greenplum Database Labs (Quick & Easy)](https://github.com/pivotal-gss/go-gpdb) - Two sets of tools, one that helps for a quick spin-off of an local vagrant test cluster VM's and second tool that helps to install / manage various version installation of GPDB / GPCC with ease. Handy for quick demo's / test cases / checking out features etc.
+
 
 #### ETL
 TBD
