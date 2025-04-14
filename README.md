@@ -28,6 +28,7 @@ A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.raw
 - [Docker images](#docker-images)
 - [Videos](#videos)
 - [howto](#howto)
+- [Forks](#forks)
 
 ### High-Availability
 * [PgBouncer](https://pgbouncer.github.io/) - Lightweight connection pooler for PostgreSQL
@@ -161,3 +162,7 @@ TBD
 
 #### Security
 * [Security - How to setup Greenplum with Kerberos](https://github.com/kongyew/greenplum-kerberos)
+
+### Forks
+
+* [WarehousePG](https://github.com/warehouse-pg/warehouse-pg)
