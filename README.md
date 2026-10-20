@@ -46,6 +46,7 @@ A curated list of awesome Greenplum resources, tools [![Awesome](https://cdn.raw
 For Database Management
 * [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
 * [DBeaver](https://dbeaver.io) - Universal Database Manager with excellent support for PostgreSQL.
+* [Beekeeper Studio](https://www.beekeeperstudio.io) - Modern and easy to use database manager with support for GreengageDB, an open-source Greenplum fork.
 
 
 ### Distributions
